@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    /* Basic Options */
+    "target": "es2017",    /*es2017 async await */
+    "module": "es2015",
+     "lib": ["es2015","dom"],   
+
+    /* Strict Type-Checking Options */
+    "strict": true, 
+
+    "removeComments": true
+  }
+}
